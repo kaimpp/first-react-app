@@ -24,12 +24,12 @@ export default function home() {
   </div>
   <br/>
   <ul className='card'>
-    <Card/>
-    <Card/>
-    <Card/>
-    <Card/>
-    <Card/>
-    <Card/>
+    <Card img={"https://3wa.fr/wp-content/uploads/2020/03/card2.svg"} title={"1er bootcamp en France"} parg={"4500 depuis 2012"}/>
+    <Card img={"https://3wa.fr/wp-content/uploads/2020/03/card8.svg"} title={"1er bootcamp en France"} parg={"4500 depuis 2012"}/>
+    <Card img={"https://3wa.fr/wp-content/uploads/2020/03/card4.svg"} title={"1er bootcamp en France"} parg={"4500 depuis 2012"}/>
+    <Card img={"https://3wa.fr/wp-content/uploads/2020/03/card5.svg"} title={"1er bootcamp en France"} parg={"4500 depuis 2012"}/>
+    <Card img={"https://3wa.fr/wp-content/uploads/2020/03/card6.svg"} title={"1er bootcamp en France"} parg={"4500 depuis 2012"}/>
+    <Card img={"https://3wa.fr/wp-content/uploads/2020/03/card9.svg"} title={"1er bootcamp en France"} parg={"4500 depuis 2012"}/>
     
       {/* <li>
       <div className='incard'>
