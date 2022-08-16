@@ -1,0 +1,57 @@
+.card{
+    width: 50%;
+    margin: 0 auto ;
+    /* background-color: red; */
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-between;
+    padding: 2%;
+    /* border: 2px solid red; */
+}
+
+.incard{
+    /* padding: %; */
+    /* list-style: none; */
+    text-align: center;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-basis: 5%;
+}
+
+li{
+    list-style: none;
+}
+
+.incard img{
+    width: 35%;
+    margin-left: 27%;
+    
+}
+
+
+.ok{
+    width: 60%;
+    margin: 2% auto;
+    text-align: center;
+    
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+
+.icone{
+    font-size: 2em;
+    margin: 2%;
+}
+
+
+
+
